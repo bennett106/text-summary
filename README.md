@@ -8,19 +8,23 @@ Flask (https://flask.palletsprojects.com/)
 spaCy (https://spacy.io/)
 
 You can install spaCy and download the English language model by running:
+
 "pip install spacy"
+
 "python -m spacy download en_core_web_sm"
 
 # Getting Started
 1. Clone the repository to your local machine:
+
 "git clone https://github.com/yourusername/text-summarization-app.git"
+
 "cd text-summarization-app"
 
 2. Install the required packages:
+
 "pip install -r requirements.txt"
 
 3. Run the Flask Application: 
-"pip install -r requirements.txt"
 
 The application should now be running locally. You can access it in your web browser at http://localhost:5000.
 
