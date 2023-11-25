@@ -15,7 +15,9 @@ You can install spaCy and download the English language model by running:
 
 # Getting Started
 1. Clone the repository to your local machine:
+
 "git clone https://github.com/bennett106/text-summary.git"
+
 "cd text-summary"
 
 2. Install the required packages:
